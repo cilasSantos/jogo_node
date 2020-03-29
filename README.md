@@ -15,19 +15,20 @@
   <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instalacao-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 
 ## 💻 Tecnologias
-1. ReactJS
-2. NodeJS
+1. <a href="https://expressjs.com/pt-br/starter/installing.html" alt="ExpressJS" >ExpressJS</a>
+2. <a href="https://socket.io/get-started/chat/" alt="Socket.io" >Socket.io</a>
+3. <a href="https://nodejs.org/en/" alt="ExpressJS" >NodeJS</a>
 
 ## 🚀 Instalação e execução
 1. Faça um clone desse repositório;
-2. Entre na pasta `spotmusic`;
+2. Entre na pasta `jogo_node`;
 3. Rode `npm install` para instalar as dependências;
-4. Rode `npm start`.
+4. Rode `npm start` para executar o server.js;
+5. Rode `npx http-server` para servir o arquivo `index.html` da pasta public.
 
 ## 🤔 Como contribuir
 
@@ -37,9 +38,4 @@
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
 ---
