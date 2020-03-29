@@ -19,9 +19,9 @@
 
 
 ## 💻 Tecnologias
-1. <a href="https://expressjs.com/pt-br/starter/installing.html" alt="ExpressJS" >ExpressJS</a>
-2. <a href="https://socket.io/get-started/chat/" alt="Socket.io" >Socket.io</a>
-3. <a href="https://nodejs.org/en/" alt="ExpressJS" >NodeJS</a>
+1. <a href="https://expressjs.com/pt-br/starter/installing.html" target="_blank" alt="ExpressJS" >ExpressJS</a>
+2. <a href="https://socket.io/get-started/chat/" target="_blank" alt="Socket.io" >Socket.io</a>
+3. <a href="https://nodejs.org/en/" target="_blank" alt="ExpressJS" >NodeJS</a>
 
 ## 🚀 Instalação e execução
 1. Faça um clone desse repositório;
