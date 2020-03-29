@@ -1,9 +1,7 @@
-<h3 align="center">
-  jogo_node multiplayer
-</h3>
-
+<h2 align="center">
+  jogo multiplayer
+</h2>
 ---
-
 <p align="center">
    <img alt="License" src="Screen%20Recording%202020-03-26%20at%2008.59%20PM.gif">
 </p>
