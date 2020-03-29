@@ -5,7 +5,7 @@
    <img alt="License" src="Screen%20Recording%202020-03-26%20at%2008.59%20PM.gif">
 </p>
 
-<p align="center">Clone da interface do spotify 🎓</p>
+<p align="center">Jogo multiplayer simples porem com alguns conceitos muito importantes com realtime etc. 🎓</p>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
@@ -36,6 +36,5 @@
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
 - Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
 - Faça push para a sua branch: `git push origin minha-feature`.
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+- Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 ---
