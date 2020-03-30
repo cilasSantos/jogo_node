@@ -8,7 +8,7 @@
    <img alt="License" src="Screen%20Recording%202020-03-26%20at%2008.59%20PM.gif">
 </p>
 
-<p align="center">Jogo multiplayer simples porem com alguns conceitos muito importantes com realtime etc. 🎓</p>
+<p align="center">Jogo multiplayer simples porem com alguns conceitos muito importantes como realtime etc. 🎓</p>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
