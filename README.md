@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">Jogo multiplayer simples porem com alguns conceitos muito importantes como realtime etc. 🎓</p>
+<p align="center">A ideia do Jogo é quem conseguir pegar o maior numero de quadradinhos vence. 🎓</p>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
